@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KentNewton.aternos.me",
+    "ip": "KentNewton.aternos.me:58637",
     "port": 58637,
     "version": "1.21.11",
     "try-creative": false
